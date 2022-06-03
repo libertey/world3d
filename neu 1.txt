@@ -1,0 +1,1 @@
+/?=[^{}]*}/g -> remove all between curly brackets
